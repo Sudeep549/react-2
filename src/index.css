@@ -11,8 +11,9 @@ body {
     rgb(153, 240, 153),
     rgb(240, 210, 215)
   );
-  height: 94.6vh;
-  background-repeat: no-repeat;
+  height: 100%;
+  
+
 }
 
 code {
